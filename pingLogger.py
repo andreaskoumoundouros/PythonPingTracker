@@ -8,6 +8,7 @@ from argparse import ArgumentParser
 logFile = "log.json"
 ipAddress = "104.160.131.3"
 
+# TODO: Add live graph view functionality.
 if __name__ == '__main__':
 	start_time = time.time()
 
