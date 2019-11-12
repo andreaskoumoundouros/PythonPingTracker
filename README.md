@@ -1,6 +1,10 @@
 # PythonPingTracker
  Python tools to track ping over a custom amount of time and display the data.
 
+## Installation
+ Developed with Python version 3.7.5
+ Use ```$pip install -r requirements.txt``` to install dependencies.
+
 ## Usage
  ```$python pingLogger.py [-h] [-H HOST] [-f FILE]```
 
